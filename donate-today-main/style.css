@@ -50,10 +50,50 @@ h2{
         font-weight: 750;
 
 }
-#para{
+.para{
         text-align:center;
         margin-left:10%;
         margin-right: 10%;
         margin top:6%;
         
 }
+.container{
+                width:100%;
+                display:flex;
+                justify-content:center ; 
+                align-items: center;
+                padding-left: 20px;
+                padding-right: 20px;
+                margin-left: 20px;
+                margin-right: 20px;
+                margin-top: 30px;
+        }    
+        .box{
+                font-size: 20px;
+                font-weight: 700;
+                color: gray;
+                margin:10px;
+                padding:10px 10px;
+                background-color:aliceblue;
+                border-radius: 5px;
+        }
+        #color{
+                background-color: rgb(255, 211, 253);
+                border: 1px solid #d388ba ;
+                color: #d388ba;
+                border-radius :5px;
+        }
+        h4{
+                
+                width:50%
+                font-size: 15px;
+                color: darkgray;             
+                padding-top: 10px;
+                font-weight: 100;
+                text-align: center;
+                border-bottom: 2px solid gray;
+                
+               
+              
+                
+        
