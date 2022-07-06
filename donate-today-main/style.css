@@ -31,4 +31,29 @@
         font-size:18px;
         color:white;
 }
+.link{
+        padding:10px 40px;
+        text-decoration: none;
+        background-image: linear-gradient(tomato,red);
+        color:white;
+        font-weight: 700;
+        border-radius: 5px;
+}
+h2{
+        font-family: 'Rubik', sans-serif;
+        
+         text-align: center;
+        font-size:40px ;
+        margin-left:20%;
+        margin-right:20%;
+        margin-top:5%;
+        font-weight: 750;
 
+}
+#para{
+        text-align:center;
+        margin-left:10%;
+        margin-right: 10%;
+        margin top:6%;
+        
+}
