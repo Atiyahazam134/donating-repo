@@ -142,6 +142,7 @@ h2{
                 justify-content: center;
                 margin-top: 5%;
         }
+       
 
         .flexible-container{
                 display:flex;
@@ -154,7 +155,7 @@ h2{
        .their-live{
                  text-align: left;
                  margin: 0 auto;
-                 width:100%;
+                 width:80%;
 
                                
            
@@ -166,15 +167,18 @@ h2{
         .half-width{
                 
                 justify-content: left;
+                height: auto;
+                width: auto;
                 
                
 
                
         }
 .half-width img{
-        width:40%;
+        width:100%;
         
         margin-left:50px;
+        margin-right: 50px;
 
         
        
@@ -185,28 +189,49 @@ h2{
 }
 .sub{
         background:blanchedalmond;
-        height:500px;
+        height:200px;
         width:80%;
         margin: 0 auto;
-        margin-top: 100px;
+        margin-top: 50px;
         display:flex;
         justify-content: center;
         align-items: center;
 }
 .text-input{
-        font-size: 1.5rem;
+        font-size: 1.2rem;
         padding: 10px;
         border: none;
         border-radius:10px 0 0 10px;
 }
 .sub-btn{
-        font-size: 1.5rem;
-        padding: 10px 30px;
+        font-size: 1.2rem;
+        padding: 10px 15px;
         background-color: tomato;
         border:none;
         border-radius: 0 10px 10px 0;
         color: white;
 }
+
+        
+       footer{
+        text-align: center;
+        background-color: black;
+        margin-top:30px;
+        color: white;
+        padding :30px 40px;
+       }
+      .gonna{
+        padding:100px 10px;
+
+       }
+       .humble{
+        color:red;
+        font-family: 'Lobster', cursive;
+        font-size: 30px;
+        margin-top: 20px;
+        margin-bottom: 5px ;
+
+       }
               
       
                 
