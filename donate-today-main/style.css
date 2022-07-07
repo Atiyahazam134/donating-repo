@@ -32,7 +32,7 @@
         color:white;
 }
 .link{
-        padding:10px 40px;
+        padding:15px 35px;
         text-decoration: none;
         background-image: linear-gradient(tomato,red);
         color:white;
@@ -62,8 +62,8 @@ h2{
                 display:flex;
                 justify-content:center ; 
                 align-items: center;
-                padding-left: 20px;
-                padding-right: 20px;
+                padding-left: 30px;
+                padding-right: 30px;
                 margin-left: 20px;
                 margin-right: 20px;
                 margin-top: 30px;
@@ -78,22 +78,107 @@ h2{
                 border-radius: 5px;
         }
         #color{
-                background-color: rgb(255, 211, 253);
-                border: 1px solid #d388ba ;
-                color: #d388ba;
+                background-color: #fff3f3;
+                border: 2px solid tomato ;
+                color: tomato;
                 border-radius :5px;
         }
         h4{
                 
-                width:50%
+                width:50%;
                 font-size: 15px;
                 color: darkgray;             
                 padding-top: 10px;
                 font-weight: 100;
                 text-align: center;
-                border-bottom: 2px solid gray;
+                margin-top:2%;
                 
+        }
+        .border-bottom{
+                border: 1px solid grey;
+               margin: auto;
+               width:50%;
                
+        }
+        .row{
+              display:flex;
+                            margin-top: 5%;
+                            margin-left: 10%;
+                            margin-right: 10%;
+                           
+        }
+         h3{
+                font-size:28px;
+                font-weight:600;
+         }      
+         p{
+                font-size: 15px;
+                font-weight: 300;
+                line-height: 20px;
+                padding:10x 10px;
+        }
+        .column{
+               flex-basis: 31%;
+                background: #fff3f3;
+                border-radius: 10px;
+                margin-bottom: 5%;
+                padding:22px 20px;
+                margin-left: 10px;
+                margin-right:10px;
+                width:300x;
+                height:250px;
+               
+        }
+        #about-food{
+                background: #E5F4FA;
+        }
+        #about-education{ 
+                background:#FBFBD2;
+
+        }      
+        .button{
+                text-align: center;
+                justify-content: center;
+                margin-top: 5%;
+        }
+
+        .flexible-container{
+                display:flex;
+                margin-top: 100px;
+                padding-left: 40px;
+                padding-right: 40px;
+        }
+       .their-live{
+                 text-align: left;
+                 justify-content: left;
+                 margin-left: 10px;
+                 margin-right: 10px;
+                 padding-left: 36px;
+                 
+                 width:600px;
+       }
+       
+
+        
+        .half-width{
+                width:50%;
+                justify-content: left;
+                 margin-left: 10px;
+                 margin-right: 10px;
               
+
+        }
+.half-width img{
+        width: 40%;
+        height: 400px;
+        width:400px;
+        padding-left: 10px;
+        padding-right: 10px;
+}
+#text{
+        text-align:left;
+}
+              
+      
                 
         
