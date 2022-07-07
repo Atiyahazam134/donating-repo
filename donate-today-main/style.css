@@ -55,7 +55,7 @@ h2{
         text-align:center;
         margin-left:10%;
         margin-right: 10%;
-        margin top:6%;
+        margin-top:6%;
         
 }
 .container{
@@ -86,13 +86,14 @@ h2{
         }
         h4{
                 
-                width:50%;
+               
                 font-size: 15px;
                 color: darkgray;             
                 padding-top: 10px;
                 font-weight: 100;
                 text-align: center;
                 margin-top:2%;
+                justify-content: center;
                 
         }
         .border-bottom{
